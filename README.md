@@ -1,5 +1,13 @@
-# AndroidTabLayoutExample
+### AndroidTabLayoutExample
 android material design TabLayout example.
+
+### add dependencies
+  ```
+  ...
+  compile 'com.android.support:appcompat-v7:23.0.1'
+  compile 'com.android.support:design:23.0.1'
+  ...
+  ```
 
 ### change tabMode (scrollable | fixed)
 
